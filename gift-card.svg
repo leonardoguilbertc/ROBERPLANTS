@@ -1,0 +1,44 @@
+<svg class="rp-gc-svg" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="2732" height="800" viewBox="0 0 2732 800">
+  <rect width="2732" height="800" fill="#F7F3ED"/>
+  <g transform="rotate(-7 951 390)">
+    <rect x="590" y="130" width="722" height="520" rx="26" fill="#F7CBCA"/>
+    <text x="638" y="238" fill="#145C4E" font-family="Poppins, sans-serif" font-size="25" font-weight="700" letter-spacing="2.2">PLANTAS Y</text>
+    <text x="638" y="276" fill="#145C4E" font-family="Poppins, sans-serif" font-size="25" font-weight="700" letter-spacing="2.2">MACETAS</text>
+    <g fill="none" stroke="#145C4E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M792 511 C792 438 787 369 776 314"/>
+      <path d="M779 363 C733 362 693 331 676 286 C723 286 764 312 779 363 Z"/>
+      <path d="M784 406 C835 396 873 360 889 311 C841 316 803 348 784 406 Z"/>
+      <path d="M787 452 C745 447 711 423 691 388 C734 386 770 408 787 452 Z"/>
+      <path d="M792 477 C834 462 866 434 880 397 C841 402 807 430 792 477 Z"/>
+      <path d="M731 503 L852 503 L838 622 L746 622 Z"/>
+    </g>
+  </g>
+  <g transform="rotate(7 1781 390)">
+    <rect x="1420" y="130" width="722" height="520" rx="26" fill="#00AA9F"/>
+    <text x="1880" y="235" fill="#F7F3ED" font-family="Poppins, sans-serif" font-size="24" font-weight="700" letter-spacing="2.1">DISEÑO DE</text>
+    <text x="1880" y="272" fill="#F7F3ED" font-family="Poppins, sans-serif" font-size="24" font-weight="700" letter-spacing="2.1">ESPACIOS</text>
+    <g fill="none" stroke="#F7F3ED" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1838 306 L1971 306 L1971 436 L1838 436 Z"/>
+      <path d="M1858 326 L1924 326 L1924 414 L1858 414 Z"/>
+      <path d="M1924 326 L1952 326 L1952 414 L1924 414"/>
+      <path d="M1825 478 L1976 478 L1976 581 L1825 581 Z"/>
+      <path d="M1825 522 L1976 522"/>
+      <path d="M1901 478 L1901 581"/>
+      <path d="M1838 581 L1838 592 M1963 581 L1963 592"/>
+      <path d="M2041 563 C2041 501 2038 438 2027 371"/>
+      <path d="M2029 418 C1989 413 1963 385 1957 350 C1993 351 2020 377 2029 418 Z"/>
+      <path d="M2034 455 C2074 444 2102 416 2112 379 C2074 386 2047 411 2034 455 Z"/>
+      <path d="M2037 493 C2003 487 1979 466 1968 438 C2001 438 2026 459 2037 493 Z"/>
+      <path d="M2040 516 C2073 506 2098 486 2110 458 C2078 462 2052 482 2040 516 Z"/>
+      <path d="M1999 552 L2081 552 L2072 618 L2008 618 Z"/>
+    </g>
+  </g>
+  <rect x="936" y="132" width="864" height="520" rx="28" fill="#145C4E"/>
+  <text x="1368" y="252" text-anchor="middle" fill="#F7F3ED" font-family="GreenHome, sans-serif" font-size="61">ROBER PLANTS</text>
+  <text x="1368" y="407" text-anchor="middle" fill="#F7F3ED" font-family="Poppins, sans-serif" font-size="79" font-weight="700" letter-spacing="11">GIFT CARD</text>
+  <g fill="none" stroke="#F7F3ED" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1367 604 C1367 557 1367 523 1367 490"/>
+    <path d="M1367 553 C1328 551 1293 528 1276 493 C1318 492 1351 513 1367 553 Z"/>
+    <path d="M1367 532 C1407 521 1435 491 1444 451 C1405 460 1378 488 1367 532 Z"/>
+  </g>
+</svg>
